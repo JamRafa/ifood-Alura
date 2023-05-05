@@ -1,0 +1,11 @@
+.botao-novo a{
+    text-decoration: none;
+    color: green;
+
+}
+
+.botao-novo {
+    margin-top: 10px;
+    margin-left: 90%;
+    font-size: 15px;
+}
